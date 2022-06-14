@@ -1,0 +1,34 @@
+[
+	{
+		"name": "Riverside Warrior",
+		"replaces": "Spearman",
+		"uniqueTo": "Unanda",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 12,
+		"cost": 61,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"uniques": ["Bonus vs Mounted 50%"],
+		"promotions": ["Shock I","Blitz"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+{
+	  "name": "Riverside Archer",
+	  "replaces": "Archer",
+		"uniqueTo": "Unanda",
+		"unitType": "Ranged",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 8,
+		"cost": 40,
+		"requiredTech": "Archery",
+		"obsoleteTech": "Machinery",
+		"upgradesTo": "Crossbowman",
+		"promotions": ["Accuracy I","Accuracy II"],
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
+}
+]

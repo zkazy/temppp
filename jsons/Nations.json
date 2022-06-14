@@ -1,0 +1,41 @@
+[
+
+	{
+		"name":"Unanda",
+		"leaderName":"The Great Unifier Uordus",
+		"adjective":["Unandai"],
+		"startBias":["Desert","Flood plains","Avoid Coast","Avoid Forest","Avoid Jungle"],
+		"preferredVictoryType":"Domination",
+		
+		"startIntroPart1": "Oh Great Unifier Uordus, ruler of the lands between. You guide your people into great prosperity, with your farms that multiply hands and feed mouths, to your loyal and steadfast spears and arrows, ready to defend Unanda. Oh you, progenitor of fertility, you bring your friends to happiness and clear skies while you bring your enemies to destruction and ruin.",
+		"startIntroPart2": "Oh Great Uordus! The masses call for your name, and your great armies are willing to defend for your guiding hand and shining presence. Will the Hilu and Alu flow with your presence? Will the skies continue to shine on your productive mud farms and bustling cities? Will you stand the test of time?",
+		
+		"declaringWar":"The Ai calls us to war, so prepare to die.",
+		"attacked":"Well, well, well. Let us see if you could stand the might of our sword and shield.",
+		"defeated":"Sigh... It is okay, it is okay. Just remember that Hilu and Alu still flows without us, and I hope that reminds you of the fact that nobody lasts forever.",
+		"introduction":"O-ho! A foreigner! You are very welcome at my prosperous empire.",
+		
+		"neutralHello":"Welcome. What is your concern?",
+		"neutralLetsHearIt":["Mmm.","Okay.","Go on."],
+		"neutralNo":["Hahahaha, No.","I am sorry, but this is not fair!","Nope."],
+		"neutralYes":["Prosperous!","Splendid!","What an agreeable statement, my friend."],
+
+		"hateHello":"What is it?!?",
+		"hateLetsHearIt":["Do not bore me with your nonsense.","Continue.","Cut to the chase. What is it?"],
+		"hateNo":["Absolutely not!","What else?!","Preposterous!"],
+		"hateYes":["Just becuase I agreed to this, it doesn't mean that we are friends.","Yeah, go on.","Sigh, I accept your offer."],
+		
+		"afterPeace":"I will promise to the Ai that I will have my revenge.",
+		"tradeRequest":"Could you care to share some blessings with me?",
+				
+		"outerColor":[135, 206, 235],
+		"innerColor":[65, 105, 225],
+
+
+"uniqueName": "The Chosen",
+"uniqueText": "Breathen of the gods.",
+"uniques":  ["-[50]% [Melee] unit maintenance costs","Military units gain 50% more Experience from combat","+1 Sight for all land military units","-50% cost when purchasing tiles"],"[+1 Gold] from every [Land Trade Route (Food)]","[+1 Gold] from every [Land Trade Route (Production)]", 			"[+1 Gold] from every [Land Trade Route (Gold)]",/*"[+1 Gold] from every [Sea Trade Route (Food)]", 			"[+1 Gold] from every [Sea Trade Route (Production)]","[+1 Gold] from every [Sea Trade Route (Gold)]",*/ 			"Double quantity of [Oil] produced","Cost of purchasing items in cities reduced by [99]%","Earn [100]% of [military] opponent's [Strength] as [Culture] for kills","Receive free [Great Scientist] when you discover [Writing]","[Great Scientist] is earned [50]% faster",Receive a free policy when you reach Civil Service,"Gain a free [Harbor] [in every coastal city]","[non-air] units gain the [Phoenician Heritage] promotion","[+10 Culture] from every [Forest]","Great General provides double combat bonus","[Great General] is earned [90]% faster","Units pay only 1 movement point to embark and disembark","Melee units pay no movement cost to pillage","+[100]% Production when constructing [Wonders]","+[20] Movement for all [Water] units","+[100]% combat bonus for units fighting in [Friendly Land]","-[95]% [Land] unit maintenance costs","Starts with [Animal Husbandry]","[+1 Production] from every [Pasture]","Units ignore terrain costs when moving into any tile with Hills", "50% Maintenance costs reduction","No Maintenance costs for improvements in [Hill]","Unhappiness from population decreased by [90]%","Units fight as though they were at full strength even when damaged","[+2 Science] from every specialist","[+2 Science] from every [Great Improvement]","Gain a free [~Settler] [in every city]","Golden Age length increased by [200]%", "+10 Movement for all units during Golden Age","+100% Strength for all units during Golden Age","Receive a free Social Policy when you advance to the next era","Gold from all trade routes +250%","[+1 Production] from every [Strategic resource]","Double quantity of [Iron] produced","Double quantity of [Uranium] produced","+25% Production towards any buildings that already exist in the Capital","Cost of acquiring new tiles reduced by 95%", "Increased rate of border expansion","+50% combat strength for units fighting in friendly territory","Double Happiness from Natural Wonders", "Tile yields from Natural Wonders doubled","+[90]% great person generation in all cities","Military units gain 50% more Experience from combat","[+300]% [Culture] [in all cities]","[+3300]% growth [in all cities]","+100% Strength when fighting City-State units and cities","[-33]% maintenance costs for [All] units","[+300]% [Food] from City-States","[+500]% [Faith] from City-States","May choose [1] additional belief(s) of any type when [founding] a religion","[+1 Production, +1 Culture] from every specialist","[+5000]% [Production] [in all cities]","[+52 Gold] from every [Jungle]", "[+10 Production] from every [Jungle]", "[+22 Food] from every [Jungle]","No Maintenance costs for improvements in [All] tiles","New [All] units start with [10000] Experience [in all cities]","Enables conversion of city production to gold", "[-100]% maintenance cost for buildings [in all cities]", "[-100]% Culture cost of adopting new Policies","[Gold] cost of purchasing [All] units [-100]%","[Gold] cost of purchasing [All] buildings [-100]%","[-100]% maintenance on road & railroads","May buy [All] buildings for [0] [Culture] [in all cities]","[4] additional attacks per turn","No movement cost to pillage","[+10] Sight <for [All] units>","[+10 Food, +10 Gold, +10 Production, +10 Culture, +10 Faith, +10 Happiness] from [All] tiles [in all cities]","[300]% resources gifted by City-States","[-999]% tile improvement construction time","Quantity of strategic resources produced by the empire +[500]%","[-200]% unhappiness from population [in all cities]","[+500]% [Gold] [in all cities]","[+100]% Natural religion spread [in all cities]","Religion naturally spreads to cities [+9] tiles away","[2] additional attacks per turn","Units fight as though they were at full strength even when damaged","+[100]% Strength for cities","May choose [5] additional belief(s) of any type when [founding] a religion","May choose [5] additional belief(s) of any type when [enhancing] a religion","Land units may cross [Mountain] tiles after the first [Worker] is earned"],
+
+"cities":["Uruk","Eridu","Kish","Lagash","Nibru","Ur","Bad-Tibira","Zimbir","Shuruppak","Umma","Ua","Usa","Ida","Amanasa","Asa","Asu","Osu","Ousa","Ansu","Ussu","Aoda","Daona","Odana","Osasa","Dasana","Assud","Dassa","Idasa","Isa","Os","Aos","Ios","Idos","Dosai","Idon","Oodi","Uano","Uana","Id","Idanasa"]
+	}
+]
